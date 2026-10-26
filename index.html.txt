@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head><title>Audrey's Mid_Term _Test</title>
+</head>
+<body>
+.<H1><B><I><U>LISTENING TO MUSIC</U></I></B></H1><img : istockphoto -1502 799630-612*612
+   <P> Listening to music is one of the most universally accessible ways to reset my mood,
+    acting as an instant catalyst for emotional shifts.
+Whether I need a high-energy beat to push through a demanding afternoon or a gentle,
+ ambient melody to quiet my mind after a chaotic day
+ music provides the exact atmosphere I need. 
+It functions as a reliable anchor, grounding me in the present while helping me process
+ whatever stresses or celebrations the day brings.
+   Beyond simply altering my mood, every song feels like a personal companion that captures
+    complex feelings I cannot always put into words.
+ There is a deep comfort in finding a track that mirrors my internal state, proving that someone
+  else has felt the exact same way and 
+ translated it into art.
+ This connection turns listening into a deeply validating experience, transforming moments of 
+ isolation into moments of shared human empathY.
+      Music also has a unique ability to act as a time capsule, transforming plain, everyday moments
+       into vivid, cinematic memories.
+     Hearing a specific opening chord or vocal hook can instantly transport me back to a distinct 
+      night, a childhood road trip,
+     or a milestone life event. By anchoring my memories to rhythm and rhyme, music turns my personal
+      history into something tangible 
+     and nostalgic that I can revisit whenever I hit play.
+       On a deeper level, engaging with music serves as a form of mindfulness, forcing me to slow down
+        and truly focus on the present.
+         Immersing myself in the intricate layers of a bassline, the crisp snap of a snare, or the clever phrasing of a lyric pulls me out of
+         my repetitive thoughts.In a world full of constant  distractions, plugging in my headphones
+          creates a sanctuary of absolute 
+         focus and mental clarity.
+    Additionally, music fuels my daily productivity and creativity, serving as the ultimate soundtrack
+     for work and hobbies alike.
+     The right playlist creates a state of effortless flow, blocking out external noise and helping me
+      lock into a rhythm while writing, 
+     studying, or exercising. It provides a steady undercurrent of momentum that makes routine chores
+      feel engaging and large, 
+     daunting tasks feel manageable.
+Ultimately, my love for music stems from its limitless diversity and its power to connect people
+ across boundaries of language and culture.
+ There is always a new genre to explore, a new artist to discover, and a different perspective to 
+ understand through a well-crafted verse.
+  It is an evolving, lifelong passion that continuously enriches my life,
+ making the world feel a little more vibrant, connected, and deeply felt.
+ </P><H1>WHAT I LISTEN TO</H1><p>Phonks:
+ 
+ MONTAGEM FUEGO (Super Slowed) – qõke
+ NO BATIDÃO (Super Slowed) – ZXKAI
+ VOCE NA MIRA (Slowed) – Hwungii
+ PASSO BEM SOLTO (Slowed) – ATLXS
+ MONTAGEM COMA – ANDROMEDA & elysian
+ MONTAGEM PEGADORA (Slowed) – Rubikdice
+ MONTAGEM XONADA – MXZI, Dj Samir & DJ Javi26
+ TIKI TIKI (Slowed & Reverb) – QMIIR
+ <h3>Favorites</h3>
+ <list><ul>
+ All Motagem's
+ Voce na mira
+ Baila Lento
+ </ul></list>
+</p>
+<label for"name">Name :</label><br>
+<input type ="password"id ="name"name="name"placeholder="Enter your name"><br>
+
+<label for"email">Email :</label.><br>
+<input type ="password"id ="email"name="placeholder"="Enter your email"
+<input type="checkbox"name=hobby value ="singing"/>Singing
+<input type="checkbox"name=hobby value ="swimming"/>Swimming
+<input type="checkbox"name=hobby value ="acting"/>Acting
+<input type="checkbox"name=hobby value ="coding"/>Coding
+<input type="checkbox"name=hobby value ="reading"/>Reading
+<input type="checkbox"name=hobby value ="dancing"/>Dancing
+<input type="checkbox"name=hobby value ="playing football"/>Playing football
+<input type="checkbox"name=hobby value ="playing basketball"/>Playing basketball
+<input type="checkbox"name=hobby value ="playing volleyball"/>Playing volleyball
+<input type="checkbox"name=hobby value ="other"/>Other
+<br><button type="submit">Submit
+<h1><b><i><u>MADE BY AUDREY KISSI</u></i></b></h1>
+
+</body>
+</html>
